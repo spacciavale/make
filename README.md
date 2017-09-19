@@ -1,5 +1,5 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-[[http://www.3dingegno.com/wp-content/uploads/2017/09/3d-printer-make-xz.jpg|alt=octocat]]
+![ciao](http://www.3dingegno.com/wp-content/uploads/2017/09/3d-printer-make-xz.jpg)
 
 http://www.3dingegno.com/wp-content/uploads/2017/09/3d-printer-make-xz.jpg
 
